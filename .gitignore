@@ -1,0 +1,6 @@
+# Created by pytest automatically.
+server/creds.json
+server/venv/*
+*__pycache__*
+server/pyvenv.cfg
+*.pytest_cache/*
